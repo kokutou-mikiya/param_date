@@ -1,0 +1,8 @@
+spring:
+  jackson:                  #jackson 生效
+    date-format: yyyy-MM-dd
+  mvc:                      #jackson 没生效
+    date-format: yyyy-MM-dd
+
+
+
